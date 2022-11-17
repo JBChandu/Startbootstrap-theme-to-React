@@ -16,7 +16,7 @@
 
 **Existing Page Link :** [Link](https://startbootstrap.com/previews/freelancer)
 
-**Deployed Link :** [Link](https://startbootstrap-freelancertheme-react.netlify.app/)
+**Deployed Link :** [Link](https://startbootstrap-theme-to-react.netlify.app/)
 >### Preview :
 
 ![Homepage screenshot-1](preview.png)
