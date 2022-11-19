@@ -12,7 +12,7 @@
 - Learned about creating boiler-plate code of ReactJS.
 - Learned to rewrite src folder from scratch
 - Learned to divide pages parts into components.
-- Learned how props work and destructed props and passed data.
+- Learned how props work and destructured props and passed data.
 
 **Existing Page Link :** [Link](https://startbootstrap.com/previews/freelancer)
 
